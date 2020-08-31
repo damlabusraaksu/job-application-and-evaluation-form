@@ -1,0 +1,10 @@
+C:\Users\Acersd\Desktop\connection status\connection status\bin\Debug\connection status.exe.config
+C:\Users\Acersd\Desktop\connection status\connection status\bin\Debug\connection status.exe
+C:\Users\Acersd\Desktop\connection status\connection status\bin\Debug\connection status.pdb
+C:\Users\Acersd\Desktop\connection status\connection status\obj\Debug\connection status.csprojAssemblyReference.cache
+C:\Users\Acersd\Desktop\connection status\connection status\obj\Debug\connection_status.Properties.Resources.resources
+C:\Users\Acersd\Desktop\connection status\connection status\obj\Debug\connection status.csproj.GenerateResource.cache
+C:\Users\Acersd\Desktop\connection status\connection status\obj\Debug\connection status.csproj.CoreCompileInputs.cache
+C:\Users\Acersd\Desktop\connection status\connection status\obj\Debug\connection status.exe
+C:\Users\Acersd\Desktop\connection status\connection status\obj\Debug\connection status.pdb
+C:\Users\Acersd\Desktop\connection status\connection status\obj\Debug\connection_status.DataUsage.resources
